@@ -1,7 +1,7 @@
 import useCookie from "@/utils/hooks/useCookies";
 import axios from "axios";
 
-const apiUrl = "http://apiagrocontrol.ddns.net/";
+const apiUrl = "https://apiagrocontrol.ddns.net/";
 
 const { getCookie } = useCookie();
 
